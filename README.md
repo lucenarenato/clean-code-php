@@ -1,5 +1,8 @@
 # Clean Code PHP
 
+## Clean Code concepts adapted for PHP
+> O livro Software engineering principles, de Robert C. Martin Clean Code, adaptado para PHP. Isso não é um guia de estilo. É um guia para podução de software em PHP legível, reusável, e refatorável.
+
 ## Sumário
 
   1. [Introdução](#introdução)
@@ -2122,6 +2125,7 @@ Também disponível em outros idiomas:
 * :es: **Spanish:**
    * [fikoborquez/clean-code-php](https://github.com/fikoborquez/clean-code-php)
 * :brazil: **Portuguese:**
+   * [lucenarenato/clean-code-php](https://github.com/lucenarenato/clean-code-php)
    * [fabioars/clean-code-php](https://github.com/fabioars/clean-code-php)
    * [jeanjar/clean-code-php](https://github.com/jeanjar/clean-code-php/tree/pt-br)
 * :thailand: **Thai:**
